@@ -1,0 +1,1 @@
+Module Contador4Bits( 
